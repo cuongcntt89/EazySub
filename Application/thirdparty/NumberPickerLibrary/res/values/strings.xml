@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="dialog_set_number">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+	<string name="apostrophes">\'</string>
+	<string name="apostrophes_double">\'\'</string>
+
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':Indicator_library'
+project(':Indicator_library').projectDir = new File('thirdparty/Indicator_library')

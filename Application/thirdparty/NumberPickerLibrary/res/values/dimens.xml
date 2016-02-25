@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="dilog_picker_width">70dp</dimen>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    
+    <!-- Color application -->
+    <color name="colorStatusBar">#3C281F</color>
+    <color name="colorApp">#6D4836</color>
+    <color name="colorBrownBold">#4E3529</color>
+    <color name="colorYellow">#FFD100</color>
+    <color name="colorYellowPale">#EAE3DC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitePale">#FCFAF7</color>
+    <color name="description_login_face">#A8A7A5</color>
+
+</resources>
